@@ -1,0 +1,536 @@
+.logobar{
+    background-color:#CE0505  ;
+    height: 75px;
+    
+}
+
+
+#e{
+    width: 47px;
+    height: 47px;
+    margin: 15px 740px 15px 0;
+    border-radius: 50%;
+    background: #FFFFFF ;
+    display: inline-block;
+    font: normal normal 600 33px/50px Poppins;
+    font-size: 38px;
+    text-align: center;
+    color: #eb2929;
+    position: absolute;
+    left: 120px;
+    top: 7px;
+
+}
+
+#l{
+    position: absolute;
+    left: 1150px;
+    top: 35px;
+    color: #FFFFFF;
+    
+}
+
+#c{
+    margin: 0px 0 0 10px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 3px;
+    border: solid 1px #FFFFFF;
+    font-family: poppins;
+    font-size: 16px;
+    font-weight: 500;
+    position: absolute;
+    left: 1200px;
+    top: 28px;
+    color: #FFFFFF;
+}
+
+.heading{
+    width: 514px;
+    height: 51px;
+    font-family: poppins;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 120px;
+    top:100px
+}
+
+.rectangle{
+    width: 240px;
+    height: 682px;
+    position: absolute;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    left: 120px;
+    top: 160px;
+
+}
+
+#filters{
+    text-align: left;
+    font: normal normal 600 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 20px;
+
+}
+
+#sl{
+    text-align: left;
+    font: normal normal normal 17px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 20px;
+    top: 35px
+}
+
+#selectl{
+    width: 210px;
+    height: 35px;
+    font-size: 15px;
+    margin: 10px 0 20px 0px;
+    padding: 8px 16.7px 7px;
+    border-radius: 5px;
+    border: solid 1px #8c96ab;
+    color: #8c96ab;
+    position: absolute;
+    left: 15px;
+    top: 65px
+}
+
+#cui{
+    text-align: left;
+    font: normal normal normal 17px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 20px;
+    top: 125px
+    }
+
+ .options{
+     margin: 15px 0 10px 15px;
+     font-family: poppins;
+     font-size: 17px;
+     color: #8c96ab;
+     position: relative;
+     top:150px;
+ }   
+
+ #cot{
+    text-align: left;
+    font: normal normal normal 17px/21px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 20px;
+    top: 350px
+ }
+
+ .check{
+     margin: 15px 0 10px 15px;
+     font-family: poppins;
+     font-size: 17px;
+     color: #8c96ab;
+     position: relative;
+     top:200px
+ }
+
+ #sort{
+    text-align: left;
+    font: normal normal 600 20px/27px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 20px;
+    top: 580px
+}
+
+.sor{
+    margin: 15px 0 10px 15px;
+     font-family: poppins;
+     font-size: 17px;
+     color: #8c96ab;
+     position: relative;
+     top:250px
+}
+
+.rec{
+    width: 794px;
+    height: 261px;
+    position: absolute;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    left: 450px;
+    top: 160px;
+
+}
+
+#tbcc{
+    top: 234px;
+    left: 614px;
+    width: 303px;
+    height: 43px;
+    text-align: left;
+    font: normal normal 600 30px/46px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 200px;
+    top: 20px
+}
+
+#f{
+    width: 50px;
+    height: 23px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 205px;
+    top: 65px ;
+}
+
+#s{
+    width: 500px;
+    height: 23px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    position: absolute;
+    left: 205px;
+    top: 89px ;
+
+}
+.partition{
+    width: 720px;
+    height: 0;
+    margin: 15px 0 0 10px;
+    border: solid 1px #dedfe5;
+    position: absolute;
+    top: 140px;
+    left: 25px;
+}
+#ccf{
+    width: 121px;
+    height: 128px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    position: absolute;
+    left: 40px;
+    top: 179px ;
+
+}
+
+#bak{
+    width: 71px;
+    height: 99px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 200px;
+    top: 185px ;
+
+}
+
+#rup{
+    width: 71px;
+    height: 99px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 200px;
+    top: 214px ;
+
+}
+
+.img1{
+        display: block;
+        width: 120px;
+        height: 110px;
+        object-fit: cover;
+        border-radius: 20px;
+        margin: 0px 10px 10px 5px;
+        margin-top: 25px;
+        margin-left: 50px;
+    }
+
+.rec2{
+    width: 794px;
+    height: 261px;
+    position: absolute;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    left: 450px;
+    top: 460px;
+
+}
+
+#tbs{
+    width: 303px;
+    height: 43px;
+    text-align: left;
+    font: normal normal 600 30px/46px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 200px;
+    top: 30px
+
+}
+
+#fort{
+    width: 50px;
+    height: 23px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 205px;
+    top: 80px ;
+
+}
+#shop{ 
+    width: 500px;
+    height: 23px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    position: absolute;
+    left: 205px;
+    top: 105px ;
+
+}
+
+.part{
+    height:0 ;
+    width: 720px;
+    margin: 15px 0 0 10px;
+    border: solid 0.7px #dedfe5;
+    position: absolute;
+    top: 150px;
+    left: 25px;
+}
+
+#ccf2{
+    width: 121px;
+    height: 128px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #636F88;
+    opacity: 1;
+    position: absolute;
+    left: 40px;
+    top: 189px ;
+
+}
+
+#bakery{
+    width: 71px;
+    height: 99px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 200px;
+    top: 194px ;
+}
+
+#rupees{
+    width: 71px;
+    height: 99px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+    left: 200px;
+    top: 225px ;
+}
+
+.img2{
+    display: block;
+        width: 120px;
+        height: 110px;
+        object-fit: cover;
+        border-radius: 20px;
+        margin: 0px 10px 10px 5px;
+        margin-top: 25px;
+        margin-left: 50px;
+}
+
+#one{
+    top: 849px;
+    left: 699px;
+    width: 36px;
+    height: 36px;
+    font-size: x-large;
+    font-weight: 500;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #8C96AB;
+    opacity: 0.4;
+    border-radius: 7px;
+    opacity: 0.4; 
+    position: absolute;
+    left:650px;
+    top: 750px;
+}
+
+#two{
+    top: 849px;
+    left: 699px;
+    width: 36px;
+    height: 36px;
+    color: white;
+    background: #8C96AB 0% 0% no-repeat padding-box;
+    border: 2px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    left: 670;
+    top: 750px;
+
+}
+
+#three{
+    top: 849px;
+    left: 747px;
+    width: 36px;
+    height: 36px;
+    font-weight: 600;
+    font-size: 17px;
+    font: normal normal medium 20px/30px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    left: 690;
+    top: 750px;
+}
+
+#four{
+    top: 849px;
+    left: 795px;
+    width: 36px;
+    height: 36px;
+    font-weight: 600;
+    font-size: 17px;
+    font: normal normal medium 20px/30px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    left: 800px;
+    top: 750px;
+}
+
+#five{
+    top: 849px;
+    left: 841px;
+    width: 36px;
+    height: 36px;
+    font-weight: 600;
+    font-size: 17px;
+    font: normal normal medium 20px/30px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    left: 850px;
+    top: 750px;
+}
+
+#six{
+    top: 849px;
+    left: 841px;
+    width: 36px;
+    height: 36px;
+    font-weight: 600;
+    font-size: 17px;
+    font: normal normal medium 20px/30px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    left: 900px;
+    top: 750px;
+
+    }
+
+ #seven{
+
+    width: 36px;
+    height: 36px;
+    font-size: x-large;
+    color: #8C96AB;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid #8C96AB;
+    border-radius: 7px;
+    opacity: 1;
+    position: absolute;
+    left: 950px;
+    top: 750px;
+ }
